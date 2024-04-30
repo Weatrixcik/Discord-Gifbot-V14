@@ -4,4 +4,4 @@
 
   # Bot İle Alakalı Görseller
 
-![Uploading image.png…]()
+![image](https://github.com/Weatrixcik/Discord-Gifbot-V14/assets/121248383/209fc06a-1b99-4ad9-9305-8739e252456b)
